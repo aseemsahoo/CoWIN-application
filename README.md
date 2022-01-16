@@ -3,6 +3,6 @@ This is a project made using C++ and SQL. Here, Qt Creator has been used to orga
 
 
 # Instructions
-For running the .exe file successfully, paste the database folderin C: drive
+For running the .exe file successfully, paste the database folder in C: drive
 
 The location should be: C:/database/mydb.db
