@@ -1,0 +1,5 @@
+For this project to run, 
+Paste the database folder
+in C: drive
+
+The location should be: C:/database/mydb.db
